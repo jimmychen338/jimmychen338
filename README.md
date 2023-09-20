@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2017/02/01/10/44/design-art-2029562_640.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2020/05/25/13/41/chalet-5218666_1280.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.pixabay.com/photo/2020/05/25/13/41/chalet-5218666_1280.png">
 </picture>

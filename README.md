@@ -1,3 +1,5 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
 Shows an illustrated house in light mode and a moon with stars in dark mode
 <!--

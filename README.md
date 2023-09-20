@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Shows an illustrated house in light mode and a moon with stars in dark mode
 <!--
 **jimmychen338/jimmychen338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
